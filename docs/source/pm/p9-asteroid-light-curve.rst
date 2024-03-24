@@ -1,6 +1,6 @@
 .. _p9-asteroid-light-curve:
 
-P09. Asteroid Light Curve
+P09: Asteroid Light Curve
 =========================
 
 Observing Goals:
