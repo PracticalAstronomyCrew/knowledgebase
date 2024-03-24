@@ -29,7 +29,7 @@ Observation Planning:
         * Also, Importantly if the Moon comes in the sky then you should also mark the path of the moon, and the time, on the images. 
         * It is also worth noting the time of Astronomical Twilight, which is when the sky gets as dark as it gets, and before that time you should also take into account how illuminated the sky still can be by left over sunlight – and whether that is even important compared to the level of light pollution that we have… maybe a good idea to start your observations in the opposite direction from sunset!
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
 
