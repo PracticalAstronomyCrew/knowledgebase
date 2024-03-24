@@ -34,9 +34,9 @@ Data Analysis:
 
     * Data Reduction Basic Steps
 
-        *  Visit the page :ref:`data-reduction`
-        * Reduce the images to remove the systematic effects
-        * Carefully align and combine observations in each filter to produce the highest signal to noise images possible
+        *  Visit the page :ref:`data-reduction`.
+        * Reduce the images to remove the systematic effects.
+        * Carefully align and combine observations in each filter to produce the highest signal to noise images possible.
 
     * Further for this project
 
