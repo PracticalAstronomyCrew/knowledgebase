@@ -1,6 +1,6 @@
 .. _p2-open-clusters:
 
-P02. Open Clusters
+P02: Open Clusters
 ==================
 
 Observing Goals:
@@ -41,7 +41,7 @@ Data Ananlysis:
 
     * Further Analysis for this project
 
-        * You can download individual isochrones for different age and compositions from http://stev.oapd.inaf.it/cgi-bin/cmd. You can use the defaults, except that the metallicity should be Z=0.0152 (not Z=0.019 as in the default), and you want to choose appropriate ages. If you want to change the composition, remember that we use [Fe/H]=log_10 (Z/Z_solar) — so change the composition in steps of, say, Delta [Fe/H] = 0.2 dex. The output file will contain the absolute magnitudes you need. Remember that m–M=5 log d[pc]–5, so the shift in magnitude between your (apparent) magnitudes and the isochrones gives the distance modulus. Any shift in color needed tells you about the extinction towards the cluster. Make sure you use the correct combination of magnitudes to compare with your data.
+        * You can download individual isochrones for different age and compositions from http://stev.oapd.inaf.it/cgi-bin/cmd. You can use the defaults, except that the metallicity should be Z=0.0152 (not Z=0.019 as in the default), and you want to choose appropriate ages. If you want to change the composition, remember that we use :math:`[{\rm Fe/H}]=\log_{10} ({\rm Z/Z_{\rm solar}})`  — so change the composition in steps of, say, Delta [Fe/H] = 0.2 dex. The output file will contain the absolute magnitudes you need. Remember that m–M=5 log d[pc]–5, so the shift in magnitude between your (apparent) magnitudes and the isochrones gives the distance modulus. Any shift in color needed tells you about the extinction towards the cluster. Make sure you use the correct combination of magnitudes to compare with your data.
 
 Results:
 ^^^^^^^^
