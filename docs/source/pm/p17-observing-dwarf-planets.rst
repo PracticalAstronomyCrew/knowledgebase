@@ -30,7 +30,7 @@ Observation Planning:
         * Take many observations, so that you can create the highest signal to noise image possible, so you can see if you find Haumea
         * Take standard star field images in the vicinity of your observations so that you can determine the magnitudes of your observations, or the limiting magnitude of the observing system
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
 
