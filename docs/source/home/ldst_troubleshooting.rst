@@ -44,8 +44,8 @@ Persistent Bad Link from Dome Controller
     - COM Port: COM40
     - Baud Rate: 115200
 
-Alignement in SkyX slightly off after slew
-------------------------------------------
+Alignment in SkyX slightly off after slew
+-----------------------------------------
 
 .. note:: Star Choice
 
