@@ -1,6 +1,6 @@
 .. _p1-galaxy-radii:
 
-P01. Galaxy Radii
+P01: Galaxy Radii
 =================
 
 Observing Goals:
