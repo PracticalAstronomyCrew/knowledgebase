@@ -28,7 +28,7 @@ Observation Planning:
         * You should observe your object as deeply as possible in all avaialble narrow band filters, and the broad band filters that correspond to the same portions of the spectrum. Note you will need many more observations in the narrow bands to achieve high signal to noise. Come up with a strategy where you observe a sequence mixing the filters as you go to ensure a good mix during your observation period.
         * You should observe at least one standard star field with multiple stars so that you can both calibrate the magnitudes of the stars and use continuum sources (stars) to calibrate the line emission in the filters.
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
 
