@@ -16,6 +16,10 @@ Useful Background and References:
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
 
+    * Observation Time
+
+        * You will be observing HALF night shift.
+
     * Target Selection
 
         * Depending on your group, you should select either an edge-on spiral galaxy or a nebula.
