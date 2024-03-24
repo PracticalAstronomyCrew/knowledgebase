@@ -39,7 +39,7 @@ Observation Planning:
         * The LUM filter at LDST allows for a broad band collecting all light
         * So that you can calibrate the brightnesses of the satellites, you should observe standard star fields at a range of airmasses, using all of the LDST filters.
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
 
