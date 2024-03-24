@@ -18,7 +18,7 @@ Observation Planning:
 
     * Observation Time
 
-        * You will be observing a FULL night shift.
+        * You will be observing a FULL night.
 
     * Target Selection
 
