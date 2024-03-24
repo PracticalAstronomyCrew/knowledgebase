@@ -1,3 +1,5 @@
+.. _r03_narrow_lines:
+
 R03: Calculating Narrow Lines
 =============================
 
