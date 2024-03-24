@@ -17,18 +17,18 @@ Observation Planning:
 
     * Observation Time
 
-        * You will be observing HALF a night shift.
+        * You will be observing HALF a night.
 
     * Target Selection
 
-        * You should select a comet that is bright enough to observe, and it sufficiently far from the sun that you can observe it for a good portion of the night.
+        * You should select a comet that is bright enough to observe, is high enough in the sky and far from the sun that you can observe it for a good portion of the night.
 
     * Observations
 
-        * You should take multiple images that you can later stack in multiple different bands, use a finder chart to make sure that you are observing the comet
-        * You should use all broad band filters available to obtain as much data as possible from the comet. The outer parts of the comet are the most interesting, so you need multiple images that you can stack to obtain the highetst signal to noise.
+        * You should take multiple images that you can later stack in multiple different bands, use a finder chart to make sure that you are observing the comet.
+        * You should use all broad band filters available to obtain as much data as possible from the comet (that means take flats in each filter!). The outer parts of the comet are the most interesting, so you need multiple images that you can stack to obtain the highetst signal to noise.
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
 
@@ -53,10 +53,10 @@ Results:
 
 Can you answer these questions with your work?
 
-    * Q1: Can you prove that the comet is not just a point source? but actually a comet?
+    * Q1: Can you prove that the comet is not just a point source but actually a comet?
     * Q2: Do you see any teltale signs of the object being a comet? Where and what are these?
     * Q3: Did you observe any variability over time? 
-    * Q4: Is the comet just reflecting sunlight? or is any portion of sunlight being absorbed?
+    * Q4: Is the comet only reflecting sunlight or is any portion of sunlight also being absorbed?
 
 Presenting your results:
 ^^^^^^^^^^^^^^^^^^^^^^^^
