@@ -10,7 +10,7 @@ In this project you will observe a nebula or edge-on galaxy and try to determine
 Useful Background and References:
 
     * Osterbrock & Ferland 2005
-    * R3. Line Emission from Narrow Band Observations
+    * R3. Line Emission from Narrow Band Observations :ref:`r03-narrow-lines`
 
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
