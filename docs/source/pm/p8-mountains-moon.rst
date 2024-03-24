@@ -1,6 +1,6 @@
 .. _p8-mountains-moon:
 
-P08. Mountains on the Moon
+P08: Mountains on the Moon
 ==========================
 
 Observing Goals:
