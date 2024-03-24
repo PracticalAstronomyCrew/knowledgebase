@@ -44,7 +44,7 @@ Observation Planning:
 
         * Read the "Automatic filter changer" under "Tools for observing".
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
     * Data Reduction Basic Steps
