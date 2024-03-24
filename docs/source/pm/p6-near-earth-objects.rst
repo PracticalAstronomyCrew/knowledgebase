@@ -25,6 +25,10 @@ Useful Background and References:
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
 
+    * Observation Time
+
+        * You will be observing HALF night shift.
+
     * Target Selection
 
         * Select as bright as possible targets that will be high in the sky in the sky during the observing time
