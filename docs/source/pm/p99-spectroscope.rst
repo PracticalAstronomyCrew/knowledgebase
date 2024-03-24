@@ -1,6 +1,6 @@
 .. _p99-spectroscope:
 
-P99. Spectroscope
+P99: Spectroscope
 =================
 
 Observing Goals:
