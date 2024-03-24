@@ -40,7 +40,7 @@ Data Analysis:
 
     * Further for this project
 
-        * Look at the guide R3. Line Emission from Narrow Band Observations to remove the continuum light from your observations and produce Narrow Line images in the four narrow lines observed
+        * Look at the guide R03. Line Emission from Narrow Band Observations to remove the continuum light from your observations and produce Narrow Line images in the four narrow lines observed
 
     * Further Analysis for this project
 
@@ -54,7 +54,7 @@ Can you answer these questions with your work?
 
     * Q1: What features do you observe in the emission line maps from your source?
     * Q2: Do you notice different features in the line ratio maps?
-    * Q3: Can you explain the physical meaning between changes in line rations you observed? e.g. with Temperature, Denisity or Pressure sensitive ratios?
+    * Q3: Can you explain the physical meaning between changes in line rations you observed? e.g. with Temperature, Density or Pressure sensitive ratios?
 
 Presenting your results:
 ^^^^^^^^^^^^^^^^^^^^^^^^
