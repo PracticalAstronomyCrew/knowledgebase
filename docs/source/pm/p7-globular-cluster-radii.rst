@@ -15,6 +15,10 @@ Useful Background and References:
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
 
+    * Observation Time
+
+        * You will be observing HALF night shift.
+
     * Target Selection
 
         * It is best to find a Messier object that is a Globular Cluster (someting with an M-number) as those will likely be large and bright enough. Make sure your choice will be high in the sky during your obsering time.
