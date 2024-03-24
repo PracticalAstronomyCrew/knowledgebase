@@ -2,7 +2,6 @@
 
 P05: Nebular Extinction
 =======================
-Expect to observe HALF a night, either shift A or shift B
 
 Observing Goals:
 ^^^^^^^^^^^^^^^^
