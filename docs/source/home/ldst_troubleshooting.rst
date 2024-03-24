@@ -43,3 +43,16 @@ Persistent Bad Link from Dome Controller
     - Device: Mega(ATMEGA2560)
     - COM Port: COM40
     - Baud Rate: 115200
+
+Alignement in SkyX slightly off after slew
+------------------------------------------
+
+.. note:: Star Choice
+
+  - Find a star between the pole and horizon, but not too close to either.
+  - If your star isn´t working, after a few tries, try another suitable one far from the first.
+
+.. note:: Position when slewing
+
+  - before slewing to your target star, try having a near star selected. The more the CCD travels, the higher the likelyhood of missalignement
+  
