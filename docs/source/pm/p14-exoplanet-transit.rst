@@ -13,9 +13,10 @@ Useful Background and References:
 
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
+
     * Observation Time
 
-        * You will be observing a whole night.
+        * You will be observing a FULL night shift.
 
     * Target Selection
 
