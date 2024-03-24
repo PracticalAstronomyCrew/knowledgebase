@@ -54,7 +54,7 @@ Results:
 
 Can you answer these questions with your work?
 
-    * Q1: Is there any variation in the ratio :math:`{\rm H_{\alpha}/H_{\beta}}`
+    * Q1: Is there any variation in the ratio :math:`{\rm H_{\alpha}/H_{\beta}}`?
     * Q2: If so, why? If not, why not?
 
 Presenting your results:
