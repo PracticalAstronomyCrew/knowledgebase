@@ -24,7 +24,9 @@ Observation Planning:
 
     * Observations
 
-        * You should maximise the signal-to-noise in your observations, using a large amount of binning and the broadest possible filter (lum), with fairly long exposure times. You should make sure to have a great set of calibration frames to remove any image artefacts. You should take observations of standard star fields so that you are able to calibrate the magnitudes that you observe.
+        * You should maximise the signal-to-noise in your observations, using a large amount of binning and the broadest possible filter (lum), with fairly long exposure times.
+        * If your star is too faint, make sure you use the tracker for prologned exposures.
+        * You should make sure to have a great set of calibration frames to remove any image artefacts. You should take observations of standard star fields so that you are able to calibrate the magnitudes that you observe.
 
 Data Analysis:
 ^^^^^^^^^^^^^^^
@@ -32,7 +34,7 @@ Data Analysis:
 
     * Data Reduction Basic Steps
 
-        * NOTE: this project is doable. With proper data reduction a transit is visible. See _PDF_HERE
+        * NOTE: this project **is doable**. With proper data reduction a transit is visible. See _PDF_HERE
 
         *  Visit the page :ref:`data-reduction`
         * It is very important that you do the best possible job in producing calibration frames to remove any and all systematic effects.
