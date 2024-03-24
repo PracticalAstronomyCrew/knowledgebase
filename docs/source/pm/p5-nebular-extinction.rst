@@ -28,7 +28,7 @@ Observation Planning:
     * Observations
 
         * Take images of your nebula in the :math:`{\rm H\beta}`, :math:`{\rm V}`, :math:`{\rm H\alpha}`, and :math:`{\rm R}` filters. 
-        * Note that the Hβ filter images will need to be much longer (total exposure time) than the other images.
+        * Note that the :math:`{\rm H\beta} filter images will need to be much longer (total exposure time) than the other images.
         * We strongly suggest that you take all of your images, including the calibration images (flat fields and bias frames), with the imaging CCD in :math:`{\rm 3 \times 3}` binning mode. (This reduces the resolution of your images but greatly improves the signal-to-noise.)
 
 Data Analysis:
