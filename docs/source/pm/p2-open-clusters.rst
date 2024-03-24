@@ -6,7 +6,7 @@ P02: Open Clusters
 Observing Goals:
 ^^^^^^^^^^^^^^^^
 
-In this project you will observe an open cluster in two bands: B and V (and R, since it's easy to do), and determine the age and metallicity of the cluster.
+In this project you will observe an open cluster in two bands: :math:`{\rm B}` and :math:`{\rm V}` (and :math:`{\rm R}`, since it's easy to do), and determine the age and metallicity of the cluster.
 
 Useful Background and References:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -25,7 +25,7 @@ Observation Planning:
 
     * Observations
 
-        * observe your open cluster in two bands: B and V (and R, since it's easy to do). Try to observe at least twice as long in the B band as the V band.
+        * observe your open cluster in two bands: :math:`{\rm B}` and :math:`{\rm V}` (and :math:`{\rm R}`, since it's easy to do). Try to observe at least twice as long in the :math:`{\rm B}` band as the :math:`{\rm V}` band.
         * Your results will be much better if you take some observations to measure the bright stars, and some longer observations to observe the fainter stars (where the bright stars may be saturates)
         * To calibrate your observations you should also observe standard star fields
 
@@ -40,7 +40,7 @@ Data Ananlysis:
     * Further for this project
 
         * Register and Combine the images for each band
-        * For each star in the image measure its B and V magnitude (and R) and create a Colour-Magnitude diagram
+        * For each star in the image measure its :math:`{\rm B}` and :math:`{\rm V}` magnitude (and :math:`{\rm R}`) and create a Colour-Magnitude diagram
 
     * Further Analysis for this project
 
