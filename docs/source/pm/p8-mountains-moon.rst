@@ -30,7 +30,7 @@ Observation Planning:
         * You will make observations using the internal guider camera (small rectangle)
         * For lucky imaging you will take many hundreds of images, to capture images where the atmospheric turbulence has less consequence
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
 
