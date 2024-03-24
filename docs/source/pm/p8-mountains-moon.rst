@@ -17,6 +17,9 @@ Useful Background and References:
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
 
+    * Observation Time
+
+        * You will be observing HALF night shift.
 
     * Target Selection
 
