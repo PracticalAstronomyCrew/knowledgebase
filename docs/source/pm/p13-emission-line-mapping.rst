@@ -6,7 +6,7 @@ P13: Emission Line Mapping
 Observing Goals:
 ^^^^^^^^^^^^^^^^
 
-Make observations using narrow band filters in several lines: H_alpha, H_beta, [OIII], and [SII] of an emission line system. Calibrate the narrow band observations, with broad band observations to remove continuum emission. Produce maps of line emission and emission line ratios in your target object. 
+Make observations using narrow band filters in several lines: :math:`{\rm H_{\alpha}}`, :math:`{\rm H_{\beta}}`, :math:`{\rm [OIII]}`, and :math:`{\rm [SII]}` of an emission line system. Calibrate the narrow band observations, with broad band observations to remove continuum emission. Produce maps of line emission and emission line ratios in your target object. 
 Useful Background and References:
 
     * Osterbrock
@@ -44,7 +44,7 @@ Data Analysis:
 
     * Further Analysis for this project
 
-        * Further, make line ratio maps between each pair of lines (e.g. H_alpha/H_beta, H_alpha/[SII], etc...)
+        * Further, make line ratio maps between each pair of lines (e.g. :math:`{\rm H_{\alpha}/H_{\beta}}`, :math:`{\rm H_{\alpha}/[SII]}`, etc...)
         * You can produce multi-colour images using various lines or line ratios to highlight the features that you find in your object.
 
 Results: 
