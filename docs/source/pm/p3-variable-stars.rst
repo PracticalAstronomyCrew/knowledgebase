@@ -1,6 +1,6 @@
 .. _p3-variable-stars:
 
-P03. Variable Stars
+P03: Variable Stars
 ===================
 
 Observing Goals:
