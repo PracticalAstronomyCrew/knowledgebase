@@ -34,7 +34,7 @@ Data Analysis:
 
     * Data Reduction Basic Steps
 
-        * NOTE: this project **is doable**. With proper data reduction a transit is visible. See _PDF_HERE
+        * NOTE: this project **is doable**. With proper data reduction a transit is visible. See :ref:`../files/SpirovI_Exoplanet_transit.pdf`
 
         *  Visit the page :ref:`data-reduction`
         * It is very important that you do the best possible job in producing calibration frames to remove any and all systematic effects.
