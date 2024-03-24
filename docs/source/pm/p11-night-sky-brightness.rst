@@ -11,6 +11,9 @@ Useful Background and References:
 
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
+   * Observation time
+
+        *You will be observing for a half night shift for this project
 
 
     * Target Selection & Observations
