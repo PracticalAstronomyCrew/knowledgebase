@@ -1,6 +1,6 @@
 .. _p7-globular-cluster-radii:
 
-P07. Globular Cluster Radii
+P07: Globular Cluster Radii
 ===========================
 Observing Goals:
 ^^^^^^^^^^^^^^^^
