@@ -16,6 +16,10 @@ Useful Background and References:
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
 
+    * Observation Time
+
+        * You will be observing a FULL night shift.
+
     * Target Selection
 
         * Select a target that will reach its highest point in the sky at around 1:30am (half way between sunset and sunrise). Possible targets can be found using in the sky, and looking for relativelyy bright, short term variable, asteroids
