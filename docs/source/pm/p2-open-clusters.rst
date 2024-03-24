@@ -29,7 +29,7 @@ Observation Planning:
         * Your results will be much better if you take some observations to measure the bright stars, and some longer observations to observe the fainter stars (where the bright stars may be saturates)
         * To calibrate your observations you should also observe standard star fields
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
     * Data Reduction Basic Steps
