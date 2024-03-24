@@ -1,6 +1,6 @@
 .. _p5-nebular-extinction:
 
-P05. Nebular Extinction
+P05: Nebular Extinction
 =======================
 
 Observing Goals:
@@ -37,12 +37,12 @@ Data Ananlysis:
 
     * Further for this project
 
-        * Create an H_alpha/H_beta image
+        * Create an :math:`H_{\alpha}/H_{\beta}` image
         * To make it even more precise, you might want to first subtract the R-band image from the Hα image and the V-band image from the Hβ image.
 
     * Further Analysis for this project
 
-        * Compare the values of the H_a/H_b ratio across the image. In a fully calibrated image the ratio will be 2.74 in fully calibrated flux units in the case of emission from 10000K nebua with pure H and He ("case B recombination"; see Osterbrock & Ferland 2005). 
+        * Compare the values of the :math:`H_{\alpha}/H_{\beta}` ratio across the image. In a fully calibrated image the ratio will be 2.74 in fully calibrated flux units in the case of emission from 10000K nebua with pure H and He ("case B recombination"; see Osterbrock & Ferland 2005). 
         * Any variation from this number means that there is extinction by dust in the nebula.
 
 Results: 
