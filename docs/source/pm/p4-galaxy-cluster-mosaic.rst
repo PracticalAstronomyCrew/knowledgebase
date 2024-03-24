@@ -1,6 +1,6 @@
 .. _p4-galaxy-cluster-mosaic:
 
-P04. Galaxy Cluster Mosaic
+P04: Galaxy Cluster Mosaic
 ==========================
 
 Observing Goals:
