@@ -29,7 +29,7 @@ Observation Planning:
         * You will observe the asteroid in the B,V and R filters over the duration of the night
         * If possible, take standard star fields at the start, middle, and end of your observations to allow for calibration to the magnitude scale.
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
     * Data Reduction Basic Steps
