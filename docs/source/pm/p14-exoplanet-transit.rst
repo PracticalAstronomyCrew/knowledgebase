@@ -34,7 +34,7 @@ Data Analysis:
 
     * Data Reduction Basic Steps
 
-        * NOTE: this project **is doable**. With proper data reduction a transit is visible. See :download:`Report on Successful Transit</files/SpirovI_Exoplanet_transit.png>`
+        * NOTE: this project **is doable**. With proper data reduction a transit is visible. See :download:`Report on Successful Transit</files/SpirovI_Exoplanet_transit.pdf>`
 
 
         *  Visit the page :ref:`data-reduction`
