@@ -6,7 +6,7 @@ P15: Star Formation in Spirals
 Observing Goals:
 ^^^^^^^^^^^^^^^^
 
-Your goal is to observe H_alpha line emission, associated with star formation, and where it occurs in Spiral Galaxies. You need to observe in the narrow band, and also the broad R band, so that you can separate the continuum and line emission.
+Your goal is to observe :math:`{\rm H_{\alpha}}` line emission, associated with star formation, and where it occurs in Spiral Galaxies. You need to observe in the narrow band, and also the broad :math:`{\rm R}` band, so that you can separate the continuum and line emission.
 Useful Background and References:
 
 
@@ -24,8 +24,8 @@ Observation Planning:
 
     * Observations
 
-        * You should observe in the R and H_alpha bands -- note that H_alpha is much narrower that R so requires a lot more observing time. (You may also want other filters to construct multi-colour images)
-        * You should observe continuum sources (e.g. stars) so that you can remove the continuum emission from the narrow filter. This could be by observing a standard star field with plenty of stars in it (remember some stars will have significant H_alpha absorption, and in some wierdd cases, emission, so you need enough stars to make a solid average). 
+        * You should observe in the :math:`{\rm R}` and :math:`{\rm H_{\alpha}}` bands -- note that H_alpha is much narrower that :math:`{\rm R}` so requires a lot more observing time. (You may also want other filters to construct multi-colour images)
+        * You should observe continuum sources (e.g. stars) so that you can remove the continuum emission from the narrow filter. This could be by observing a standard star field with plenty of stars in it (remember some stars will have significant :math:`{\rm H_{\alpha}}` absorption, and in some wierdd cases, emission, so you need enough stars to make a solid average). 
 
 Data Analysis:
 ^^^^^^^^^^^^^^^
@@ -42,7 +42,7 @@ Data Analysis:
 
     * Further Analysis for this project
 
-        * See R3: Line Emission from Narrow Band Observations for steps to measure and map the H_alpha flux
+        * See R3: Line Emission from Narrow Band Observations for steps to measure and map the :math:`{\rm H_{\alpha}}` flux
 
 Results: 
 ^^^^^^^^^
@@ -50,7 +50,7 @@ Results:
 Can you answer these questions with your work?
 
     * Q1: Where in your observed galay/galaxies is star formation taking place?
-    * Q2: Are there other H_alpha sources that you don't attribute to star formation? why?
+    * Q2: Are there other :math:`{\rm H_{\alpha}}` sources that you don't attribute to star formation? why?
     * Q3: In your calibrated measurements, can you make an estimate of the star formation rate? or at least the rate from place to place?
     * Q4: Can you map and describe the star formation in the galaxy? Is there overall star formation? Does it just occur in "knots"? What story can you tell?
 
