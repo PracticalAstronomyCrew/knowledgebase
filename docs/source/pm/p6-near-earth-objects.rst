@@ -1,6 +1,6 @@
 .. _p6-near-earth-objects:
 
-P06. Near Earth Objects
+P06: Near Earth Objects
 =======================
 
 Observing Goals:
