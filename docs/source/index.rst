@@ -9,7 +9,8 @@ This documentation includes user and project manuals for the Blaauw Observatory 
 
 .. toctree::
    :caption: Telescopes
-   
+
+   home/observatory-weather
    home/gratama
    home/ldst
    home/queue
