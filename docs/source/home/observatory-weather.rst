@@ -4,6 +4,8 @@ Blaauw Observatory Weather
 .. raw:: html
   :file: rain-forecast.html
 
+|
+
 .. image:: https://img.allmetsat.com/sat/msg_fes-deutschland-h60b-anim.gif
   :width: 25%
 .. image:: https://img.allmetsat.com/sat/msg_fes-deutschland-ir039-anim.gif
