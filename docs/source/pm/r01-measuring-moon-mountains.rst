@@ -24,7 +24,7 @@ Because the Moon is not flat, you need to correct for the *foreshortening* cause
 .. image:: moon1.png
    :align: center
 
-#. Correct the measured shadow length based on the Selenographic longitude (:math:`l`) and latitutde (:math:`b`) of the feature you are looking at by multiplying your measured length by the correction factor given by: :math:`f = 1 \\ (\cos l \centerdot \cos b)`
+#. Correct the measured shadow length based on the Selenographic longitude (:math:`l`) and latitutde (:math:`b`) of the feature you are looking at by multiplying your measured length by the correction factor given by: :math:`f = 1 \ (\cos l \centerdot \cos b)`
 
 Calculating the height using the Solar Illumination Angle
 ---------------------------------------------------------
