@@ -10,11 +10,11 @@ Physical Dimensions of the Shadows:
 
 Begin by measuring shadows cast by features that you see in your images.
 
-#. Measure the length in pixels of the shadows from the peak of a mountain or crater rim to the end of the shadow it casts (typical lengths will be 7 to 30 pixels or so). The "Ruler" Region in ds9 can be helpful for this task.
+* Measure the length in pixels of the shadows from the peak of a mountain or crater rim to the end of the shadow it casts (typical lengths will be 7 to 30 pixels or so). The "Ruler" Region in ds9 can be helpful for this task.
 
-#. Use the pixel scale of the camera to convert these lengths into km using trigonometry. You'll need to determine the distance from the Earth to the Moon at the time you took your images to do this; e.g. try using Stellarium.
+* Use the pixel scale of the camera to convert these lengths into km using trigonometry. You'll need to determine the distance from the Earth to the Moon at the time you took your images to do this; e.g. try using Stellarium.
 
-#. Double check your measurements by measuring and computing the sizes in km of some of the well-defined craters you see in your image and comparing them with the sizes you can find in the Chang'E-1 atlas and on http:\\fullmoonatlas.com. Do your sizes match?
+* Double check your measurements by measuring and computing the sizes in km of some of the well-defined craters you see in your image and comparing them with the sizes you can find in the Chang'E-1 atlas and on http:\\fullmoonatlas.com. Do your sizes match?
 
 Correcting for foreshortening:
 ------------------------------
@@ -24,7 +24,7 @@ Because the Moon is not flat, you need to correct for the *foreshortening* cause
 .. image:: moon1.png
    :align: center
 
-#. Correct the measured shadow length based on the Selenographic longitude (:math:`l`) and latitutde (:math:`b`) of the feature you are looking at by multiplying your measured length by the correction factor given by:
+* Correct the measured shadow length based on the Selenographic longitude (:math:`l`) and latitutde (:math:`b`) of the feature you are looking at by multiplying your measured length by the correction factor given by:
 
 .. math::
    f = 1 / (\cos l \centerdot \cos b)
@@ -34,14 +34,14 @@ Calculating the height using the Solar Illumination Angle
 
 To measure the height from the shadow you need to know the illuminaiton angle from the Sun (as you know... shadows get longer as the Sun gets lower... same for the Moon!!)
 
-#. You need to find the Solar illumination at the time of your observation. You can go to this site: http://www.lunar-occultations.com/rlo/ephemeris.htm and record all relevant values from the time of your observation (In UTC). You need to know the Co-longnitude of the Sun (:math:`Co`) and the sub-solar latitude (:math:`Bo`)
+* You need to find the Solar illumination at the time of your observation. You can go to this site: http://www.lunar-occultations.com/rlo/ephemeris.htm and record all relevant values from the time of your observation (In UTC). You need to know the Co-longnitude of the Sun (:math:`Co`) and the sub-solar latitude (:math:`Bo`)
 
-#. Calculate the angle :math:`\theta` from the end of the shadow to the top of the mountain (see the diagram below)  
+* Calculate the angle :math:`\theta` from the end of the shadow to the top of the mountain (see the diagram below)  
 
 .. math::
    \theta = \sin^{-1} \{ [ \sin Bo \cdot \sin b ] + [ \cos Bo \cdot \cos b \cdot \sin (Co + l) ] \}
 
-#. Now, you can calculate the height using the below diagram from the corrected L and the solar angle θ
+* Now, you can calculate the height using the below diagram from the corrected L and the solar angle θ
 
 .. image:: moon2.png
    :align: center
