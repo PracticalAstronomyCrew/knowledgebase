@@ -27,7 +27,7 @@ Because the Moon is not flat, you need to correct for the *foreshortening* cause
 
 .. math::
 
-   c &= \frac{1}{\cos l \cos b) 
+   c &= \frac{1}{\cos l \cos b}
 
 Calculating the height using the Solar Illumination Angle
 ---------------------------------------------------------
@@ -40,7 +40,7 @@ To measure the height from the shadow you need to know the illuminaiton angle fr
 
 .. math::
 
-   \theta &= \arcsin \left \sin Bo \sin b + \cos Bo \cos b \sin (Co + l) \right
+   \theta &= \arcsin \left( \sin Bo \sin b + \cos Bo \cos b \sin (Co + l) \right)
 
 #. Now, you can calculate the height using the below diagram from the corrected L and the solar angle θ
 
