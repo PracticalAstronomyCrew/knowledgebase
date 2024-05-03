@@ -18,6 +18,7 @@ Making a median from a list of files
 """"""""""""""""""""""""""""""""""""
 
 .. code-block:: python
+
    from astropy.io import fits
    import numpy as np
    data_stack=[]
@@ -29,6 +30,7 @@ Getting some header information
 """""""""""""""""""""""""""""""
 
 .. code-block:: python
+
    from astropy.io import fits
    hdu = fits.open(file)
    exptime = hdu[0].header['EXPTIME']
@@ -38,6 +40,7 @@ Writing a new fits file while keeping the header
 """"""""""""""""""""""""""""""""""""""""""""""""
 
 .. code-block:: python
+
    from astropy.io import fits
    hdu = fits.open(file)
    hdu[0].data= new_data
@@ -47,6 +50,7 @@ Finding the number of counts of a round object using a circular aperture
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 .. code-block:: python
+
    from photutils import CircularAperture
    from photutils import aperture_photometry
    aperture = CircularAperture([x, y], r=radius)
@@ -57,6 +61,7 @@ How to make a date axis to plot
 """""""""""""""""""""""""""""""
 
 .. code-block:: python
+
    import datetime
    dates=[]
    dates.append(datetime.datetime(year, month, day, hours, minutes, seconds))
@@ -65,6 +70,7 @@ Mask Cosmic Rays and Align Images
 """"""""""""""""""""""""""""""""""
 
 .. code-block:: python
+
    import numpy as np 
    from image_registration import chi2_shift
    from image_registration.fft_tools import shift 
