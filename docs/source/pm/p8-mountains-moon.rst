@@ -50,7 +50,7 @@ Data Analysis:
     * Further Analysis for this project
 
         * You need to determine the Selenographic (= on the Moon) longnitude and latitude of the features you want to measure to within a degree (use the Chang'E Atlas)
-        * Follow the Guide: Measuring Heights of Mountains from Shadows in the knoweldge base
+        * Follow the KnowledgeBase Guide: :ref:`r01-measuring-moon-mountains`
 
 Results: 
 ^^^^^^^^^
