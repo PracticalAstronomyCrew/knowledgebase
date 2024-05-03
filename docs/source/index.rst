@@ -45,6 +45,7 @@ This documentation includes user and project manuals for the Blaauw Observatory 
    :maxdepth: 1
    
    pm/data-reduction
+   pm/code-snippets
    pm/a1-scientific-poster
    pm/a2-scientific-talk
    pm/p1-galaxy-radii
