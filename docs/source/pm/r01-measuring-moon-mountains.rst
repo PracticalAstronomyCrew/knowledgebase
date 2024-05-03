@@ -39,9 +39,9 @@ To measure the height from the shadow you need to know the illuminaiton angle fr
 #. Calculate the angle :math:`\theta`
 
    .. math::
-      \theta = \sin^{-1} \left{ \left[ \sin Bo \centerdot \sin b \right] + \left[ \cos Bo \centerdot \cos b \centerdot \sin (Co + l) \right] \right}
+      \theta = \sin^{-1} \{ [ \sin Bo \centerdot \sin b ] + [ \cos Bo \centerdot \cos b \centerdot \sin (Co + l) ] \}
 
 #. Now, you can calculate the height using the below diagram from the corrected L and the solar angle θ
 
-.. image: moon2.png
+.. image:: moon2.png
    :align: center
