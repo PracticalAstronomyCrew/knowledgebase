@@ -26,9 +26,9 @@ Because the Moon is not flat, you need to correct for the *foreshortening* cause
 
 #. Correct the measured shadow length based on the Selenographic longitude (:math:`l`) and latitutde (:math:`b`) of the feature you are looking at by multiplying your measured length by the correction factor given by:
 
-.. math::
+   .. math::
 
-   c = \frac{1}{\cos l \cos b}
+      c = \frac{1}{\cos l \cos b}
 
 Calculating the height using the Solar Illumination Angle
 ---------------------------------------------------------
@@ -39,9 +39,9 @@ To measure the height from the shadow you need to know the illuminaiton angle fr
 
 #. Calculate the angle :math:`\theta`
 
-.. math::
+   .. math::
 
-   \theta = \arcsin \left( \sin Bo \sin b + \cos Bo \cos b \sin (Co + l) \right)
+      \theta = \arcsin \left( \sin Bo \cdot \sin b + \cos Bo \cdot \cos b \cdot \sin (Co + l) \right)
 
 #. Now, you can calculate the height using the below diagram from the corrected L and the solar angle θ
 
