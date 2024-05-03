@@ -66,6 +66,7 @@ This documentation includes user and project manuals for the Blaauw Observatory 
    pm/p17-observing-dwarf-planets
    pm/p99-spectroscope
    pm/results
+   pm/r01-measuring-moon-mountains
    pm/r03-narrow-lines
    pm/guides
    pm/reference
