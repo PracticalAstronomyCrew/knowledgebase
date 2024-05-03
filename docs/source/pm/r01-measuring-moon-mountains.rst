@@ -1,7 +1,7 @@
 .. _r01-measuring-moon-mountains:
 
-R01: Measuring Mountains on the Moon
-====================================
+R01: Measuring Lunar Mountains
+==============================
 
 For a feature on the moon, you can measure its height from the shadow it casts using the following procedure
 
@@ -24,7 +24,10 @@ Because the Moon is not flat, you need to correct for the *foreshortening* cause
 .. image:: moon1.png
    :align: center
 
-#. Correct the measured shadow length based on the Selenographic longitude (:math:`l`) and latitutde (:math:`b`) of the feature you are looking at by multiplying your measured length by the correction factor given by: :math:`f = 1 / (\cos l \centerdot \cos b)`
+#. Correct the measured shadow length based on the Selenographic longitude (:math:`l`) and latitutde (:math:`b`) of the feature you are looking at by multiplying your measured length by the correction factor given by:
+
+.. math::
+   f = 1 / (\cos l \centerdot \cos b)
 
 Calculating the height using the Solar Illumination Angle
 ---------------------------------------------------------
@@ -33,7 +36,10 @@ To measure the height from the shadow you need to know the illuminaiton angle fr
 
 #. You need to find the Solar illumination at the time of your observation. You can go to this site: http://www.lunar-occultations.com/rlo/ephemeris.htm and record all relevant values from the time of your observation (In UTC). You need to know the Co-longnitude of the Sun (:math:`Co`) and the sub-solar latitude (:math:`Bo`)
 
-#. Calculate the angle :math:`\theta = \sin^{-1} \{ [ \sin Bo \centerdot \sin b ] + [ \cos Bo \centerdot \cos b \centerdot \sin (Co + l) ] \}`
+#. Calculate the angle :math:`\theta` from the end of the shadow to the top of the mountain (see the diagram below)  
+
+.. math::
+   \theta = \sin^{-1} \{ [ \sin Bo \cdot \sin b ] + [ \cos Bo \cdot \cos b \cdot \sin (Co + l) ] \}
 
 #. Now, you can calculate the height using the below diagram from the corrected L and the solar angle θ
 
