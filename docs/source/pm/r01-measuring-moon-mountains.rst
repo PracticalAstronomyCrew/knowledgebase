@@ -14,7 +14,7 @@ Begin by measuring shadows cast by features that you see in your images.
 
 #. Use the pixel scale of the camera to convert these lengths into km using trigonometry. You'll need to determine the distance from the Earth to the Moon at the time you took your images to do this; e.g. try using Stellarium.
 
-#. Double check your measurements by measuring and computing the sizes in km of some of the well-defined craters you see in your image and comparing them with the sizes you can find in the Chang'E-1 atlas and on fullmoonatlas.com. Do your sizes match?
+#. Double check your measurements by measuring and computing the sizes in km of some of the well-defined craters you see in your image and comparing them with the sizes you can find in the Chang'E-1 atlas and on http:\\fullmoonatlas.com. Do your sizes match?
 
 Correcting for foreshortening:
 ------------------------------
@@ -25,6 +25,7 @@ Because the Moon is not flat, you need to correct for the *foreshortening* cause
    :align: center
 
 #. Correct the measured shadow length based on the Selenographic longitude (:math:`l`) and latitutde (:math:`b`) of the feature you are looking at by multiplying your measured length by the correction factor given by:
+
    .. math::
       c = \frac{1}{\cos l \cos b}
 
@@ -36,6 +37,7 @@ To measure the height from the shadow you need to know the illuminaiton angle fr
 #. You need to find the Solar illumination at the time of your observation. You can go to this site: http://www.lunar-occultations.com/rlo/ephemeris.htm and record all relevant values from the time of your observation (In UTC). You need to know the Co-longnitude of the Sun (:math:`Co`) and the sub-solar latitude (:math:`Bo`)
 
 #. Calculate the angle :math:`\theta`
+
    .. math::
       \theta = \sin^{-1} \left{ \left[ \sin Bo \centerdot \sin b \right] + \left[ \cos Bo \centerdot \cos b \centerdot \sin (Co + l) \right] \right}
 
