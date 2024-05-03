@@ -8,10 +8,10 @@ These are code snippets that can be helpfull to guide you through data analysis.
 Creating a list of files in a directory
 """""""""""""""""""""""""""""""""""""""
 
-.. code-block:: Python
-   import subprocess
-   subprocess.call("ls /net/vega/data/users/observatory/images/"+str(sys.argv[1])+"/STL-6303E/i/*BIAS* > /Users/users/*YOU*/rough/bias.list",shell=True)
-   biasfiles = [line.rstrip('\n') for line in open("/Users/users/*YOU*/rough/bias.list")]
+.. code-block:: python
+  import subprocess
+  subprocess.call("ls /net/vega/data/users/observatory/images/"+str(sys.argv[1])+"/STL-6303E/i/*BIAS* > /Users/users/*YOU*/rough/bias.list",shell=True)
+  biasfiles = [line.rstrip('\n') for line in open("/Users/users/*YOU*/rough/bias.list")]
 
 Making a median from a list of files
 """"""""""""""""""""""""""""""""""""
