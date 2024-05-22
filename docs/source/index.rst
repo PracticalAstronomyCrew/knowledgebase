@@ -69,6 +69,7 @@ This documentation includes user and project manuals for the Blaauw Observatory 
    pm/results
    pm/r01-measuring-moon-mountains
    pm/r03-narrow-lines
+   pm/standard-stars
    pm/guides
    pm/reference
 
