@@ -26,18 +26,18 @@ Linux system and git installed) and generate the documentation yourself:
 
 1. Start wil cloning the repository
 
-    .. code-block:: console
+    .. code-block:: bash
 
        git clone https://github.com/PracticalAstronomyCrew/knowledgebase.git
        # or with SSH set up (better!)
        git clone git@github.com:PracticalAstronomyCrew/knowledgebase.git
 
-       # Then move into the local version
+       # Then move into the cloned repository
        cd knowledgebase
 
 2. Create a virtual environment, activate it and install the Sphinx dependencies
 
-    .. code-block:: console
+    .. code-block:: bash
 
        # Creates a subdirectory .venv, change the name if you want
        python3 -m venv .venv  
@@ -49,14 +49,15 @@ Linux system and git installed) and generate the documentation yourself:
 
 3. Build the html pages of the local documentation:
 
-    .. code-block:: console
+    .. code-block:: bash
 
-        make -C docs html
+        # Run 'make html' in the ./docs subdirectory
+        make html -C docs
 
-   If this was successful the HTML pages can now be found in the directory:
+4. If this was successful the HTML pages can now be found in the directory:
    ``docs/build/html``. Open them (for instance with firefox) like this:
 
-    .. code-block:: console
+    .. code-block:: bash
 
         firefox ./docs/build/html/index.html
 
