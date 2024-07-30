@@ -33,7 +33,8 @@ Persistent Bad Link from Dome Controller
 ----------------------------------------
 
 .. warning:: Level 5 Only: Reinstall Firmware
-  
+
+  - Before you start: Put the dome to PARK
   - Exit Scopedome
   - Navigate to C:\\ScopeDome\\Card_Firmware\\Arduino\\XLoader
   - Launch XLoader
