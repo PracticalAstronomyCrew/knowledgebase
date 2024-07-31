@@ -13,7 +13,7 @@ Hand Controller Will Not Connect
   
 .. warning:: OS Only: Reconnect by Router Reboot
   
-  - Shut Down Observing Before Proceeding
+  - *Shut Down Observing Before Proceeding*
   
   - Open 192.168.0.1 in chrome
   - Log into router as blauuwobs@gmail.com
@@ -34,7 +34,7 @@ Persistent Bad Link from Dome Controller
 
 .. warning:: Level 5 Only: Reinstall Firmware
 
-  - Before you start: Put the dome to PARK
+  - *Before you start: Put the dome to PARK*
   - Exit Scopedome
   - Navigate to C:\\ScopeDome\\Card_Firmware\\Arduino\\XLoader
   - Launch XLoader
