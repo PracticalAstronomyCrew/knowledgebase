@@ -15,7 +15,8 @@ Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
     * Observation Time
 
-        * You will be observing a FULL night. You will try to observe twice. 
+        * You will be observing a HALF night. You will share your data
+	  with another group observing the other half of the night.
 
     * Target Selection
 
