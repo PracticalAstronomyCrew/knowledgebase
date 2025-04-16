@@ -20,10 +20,13 @@ Observation Planning:
 
         * You will be observing a HALF night. You will share your data
 	  with another group observing the other half of the night.
+	  * One group (Asteroid Light Curve 1) will use the B and V filter images
+	  * One group (Asteroid Light Curve 2) will use the V and R filter images
 
+	  
     * Target Selection
 
-        * Select a target that will reach its highest point in the sky at around 1:30am (half way between sunset and sunrise). Possible targets can be found using in the sky, and looking for relativelyy bright, short term variable, asteroids
+        * Together with the other group, select a target that will reach its highest point in the sky at around 1:30am (half way between sunset and sunrise). Possible targets can be found using in the sky, and looking for relativelyy bright, short term variable, asteroids
 
     * Observations
 
@@ -40,7 +43,7 @@ Data Analysis:
     * Further for this project
 
         * Next you need to align all of your images -- but do not combine them
-        * For each filter, you will do relative photometry (measuring brightness) over time to create a light curve
+        * For each filter you have been assigned, you will do relative photometry (measuring brightness) over time to create a light curve
         * Identify other, non-variable, stars in the field to use as reference
 
     * Further Analysis for this project

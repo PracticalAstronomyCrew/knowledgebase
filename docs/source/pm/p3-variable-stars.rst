@@ -16,10 +16,12 @@ Observation Planning:
 
         * You will be observing a HALF night. You will share your data
 	  with another team observing the other half of the night.
+	   * One group (Variable Star 1 and 3) will use the B and V filter images
+	   * One group (Variable Star 2 and 4) will use the V and R filter images
 
     * Target Selection
 
-        * Select a target that will reach its highest point in the sky at around 1:30am (half way between sunset and sunrise). A :download:`list of possible targets </files/p288176_4-16-2020_23-43-42.pdf>` with finder charts is attached.
+        * Together with the other group, select a target that will reach its highest point in the sky at around 1:30am (half way between sunset and sunrise). A :download:`list of possible targets </files/p288176_4-16-2020_23-43-42.pdf>` with finder charts is attached.
 
     * Observations
 
@@ -39,8 +41,8 @@ Data Analysis:
 
     * Further for this project
 
-        * Next you need to align all of your images -- but no not combine them
-        * For each filter, you will do relative photometry (measuring brightness) over time to create a light curve
+       	* You need to align all of your images -- but no not combine them
+        * For each filter the you are assigned, you will do relative photometry (measuring brightness) over time to create a light curve
         * Identify other, non-variable, stars in the field to use as reference
 
     * Further Analysis for this project
