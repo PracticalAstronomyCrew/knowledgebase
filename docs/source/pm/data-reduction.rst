@@ -13,31 +13,28 @@ Links
 
 Image Registration
 ******************
-Astropy Image Registration: `astroalign`_ or `image-registration`_
-.. _astro-align: https://astroalign.quatrope.org/en/latest/
-.. _image-registration: https://pypi.org/project/image-registration/
+Astropy Image Registration: 
+`astro-align <https://astroalign.quatrope.org/en/latest/>`_ or
+`image-registration <https://pypi.org/project/image-registration/>`_
 
 Image Combination
 *****************
-Astropy `Combiner`_
-.. _Combiner: https://ccdproc.readthedocs.io/en/latest/image_combination.html#id1
-`Swarp`_
-.. _Swarp: https://www.astromatic.net/software/swarp/
+Astropy `Combiner
+<https://ccdproc.readthedocs.io/en/latest/image_combination.html#id1>`_
+
+`Swarp <https://www.astromatic.net/software/swarp/>`_
 
 Astrometry
 **********
-`Astrometry.net`_
-.. _Astrometry.net: https://astrometry.net
+`Astrometry.net <https://astrometry.net>`_
 
 Photometry
 **********
-Astropy `Photutils`_
-.. _Photutils: https://photutils.readthedocs.io/en/stable/
+Astropy `Photutils <https://photutils.readthedocs.io/en/stable/>`_
 
 Model Fitting
 *************
-Astropy `Modeling`_
-.. _Modeling: https://docs.astropy.org/en/stable/modeling/index.html
+Astropy `Modeling <https://docs.astropy.org/en/stable/modeling/index.html>`_
 
 Magnitude Calibration
 *********************
