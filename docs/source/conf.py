@@ -3,8 +3,8 @@
 # -- Project information
 
 project = "BlaauwObserverKnoweldgebase"
-copyright = "2024, University of Groningen"
-author = "Jake Noel-Storr"
+copyright = "2026, University of Groningen"
+author = "Kapteyn Institute - RUG"
 
 release = "0.1"
 version = "0.1.0"

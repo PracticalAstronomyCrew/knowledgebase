@@ -2,11 +2,6 @@ Lauwersmeer Dark Sky Telescope
 ==============================
 E06° 14' 04" N53° 23' 05" Elevation 0m
 
-.. image:: http://stem.ooo/LDST/image_o.png
-  :width: 48%
-.. image:: http://stem.ooo/LDST/image.png
-  :width: 48%
-
 .. toctree::
   :caption: User Guide
 
